@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+body {
+    background-color: #f1f1f1;
+    color: #0f141e;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+}
+
+.h1 {
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.avatar {
+    width: 350px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    margin-right: 15px;
+}
+
+.info {
+    display: flex;
+    margin-bottom: 20px;
+ 
+}
+
+.text-info {
+    /* margin-left: 15px; */
+    /* margin-bottom: 20px; */
+    width: 100%;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 15px 20px; 
+    border: 2px solid #000;
+
+
+
+}
+
+.info p {
+    color: #86898f;
+    margin: 0;
+    text-decoration: none;
+}
+
+.info h3 {
+    margin-top: 12px;
+}
+
+.target {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 15px 20px;
+    border: 2px solid #000;
+
+}
+
+
+.target h2 {
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.list {
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.time {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 15px 20px;
+    border: 2px solid #000;
+
+}
+
+.time h2 {
+   text-align: center;
+   margin-bottom: 30px;
+
+}
+
+.time table {
+    width: 100%;
+}
+
+
+.table1 {
+margin: 10px 200px 10px 230px;
+/* padding: 10px 200px 10px 230px; */
+}
+
+.cours {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 15px 20px;
+    border: 2px solid #000;
+
+}
+
+.cours h2 {
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.cours table {
+    width: 100%;
+}
+
+.table2 {
+    margin: 10px 50px 10px 50px;
+    text-align: center;
+
+}
+
+.table2 td {
+    padding-bottom: 10px;
+}
+
+.contacts {
+    margin-bottom: 100px;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 30px 20px;
+    border: 2px solid #000;
+
+}
+
+
+.contacts h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+.content {
+    margin: 0px 60px 0px 60px;
+    text-align: center;
+    display: flex;
+    padding-left: 30px;
+    
+    /* background: gray; */
+}
+
+.telega, .insta, .vk, .gt {
+    display: block;
+    margin-right: 30px;
+    height: 100px;
+    width: 100px;
+    
+    /* background: red; */
+    
+}
+
+.group1, .group2 {
+    display: flex;
+}
+
+.content img {
+    padding-bottom: 5px;
+}
+
+
+.telega1, .insta1, .vk1, .gt1 {
+    height: 60px;
+    width: 60px;
+}
+
+
+
+

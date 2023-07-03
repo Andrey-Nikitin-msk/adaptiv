@@ -1,0 +1,74 @@
+/* Конструкция для адапатинвой верстки */
+@media (max-width: 700px) {
+    .info {
+        text-align: center;
+        display: block;
+
+    }
+
+    .avatar {
+        margin-bottom: 30px;
+    }
+
+
+    .text-info {
+        margin-left: 0%;
+        width: auto;
+
+    }
+
+    .cours {
+        width: auto;
+    }
+
+    .content {
+
+        margin: auto;
+
+    }
+
+
+
+
+
+}
+
+
+@media (max-width: 650px) {
+
+    .table1 {
+        /* width: 188px; */
+        /* width: auto; */
+        margin: auto;
+        padding-left: 40px;
+
+    }
+
+}
+
+@media (max-width: 600px) {
+    
+    .table1 {
+        /* width: 188px; */
+        /* width: auto; */
+        margin: auto;
+        /* padding-left: 80px; */
+
+    }
+    
+
+.content {
+    display: block;
+    margin-left: 40px;
+}
+
+.group1 {
+    margin: auto;
+
+}
+
+    
+
+    
+
+}
